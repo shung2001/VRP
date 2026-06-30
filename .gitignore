@@ -1,0 +1,7 @@
+# Files too large for GitHub
+/QGIS/Metropolitan_buildings(Incheon,Gyeong_Gi,Seoul).dbf
+/QGIS/Metropolitan_buildings(Incheon,Gyeong_Gi,Seoul).shp
+
+# Temporary files
+*.tmp
+~$*
